@@ -1,0 +1,32 @@
+
+#place-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem auto;
+}
+
+.demo-card-square {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 4rem auto;
+}
+
+.mdl-card__title {
+    width: 100%;
+    min-height: 150px;
+    background-size: cover;
+}
+
+.photo {
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
+#photos-div {
+    display: flex;
+    flex-direction: row;
+}
